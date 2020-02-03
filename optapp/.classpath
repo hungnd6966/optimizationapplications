@@ -22,5 +22,17 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/cplex.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/ProgramFiles/cplex/bin/x64_win64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/ILOG.CP.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/ProgramFiles/doc/html/en-US/refjavacpoptimizer/html/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/ProgramFiles/cpoptimizer/bin/x64_win64"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
