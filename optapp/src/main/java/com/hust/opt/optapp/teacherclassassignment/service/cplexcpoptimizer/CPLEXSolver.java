@@ -179,7 +179,7 @@ public class CPLEXSolver {
 			optClasses[i] = new ArrayList<Integer>();
 		}	
 		
-		while (expValue > minCredit) {
+		while (expValue >= minCredit) {
 			
 			x = new IloIntVar[M][N];
 			
@@ -506,18 +506,18 @@ public class CPLEXSolver {
 			s.time[i][2] = s.phase3((int) s.maxCredit);
 			
 //			try {
-//				s.exportSolution("20191" + data[i]);
+//				s.exportSolution("20182" + data[i]);
 //			} catch (IOException e) {
 //				e.printStackTrace();
 //			}
 		}
 		
-		for (int i=0; i<7; i++) {
+		for (int i=0; i<data.length; i++) {
 			System.out.println(data[i] + ":");
 			System.out.println("Phase 1: " + s.time[i][0]);
 			System.out.println("Phase 2: " + s.time[i][1]);
 			System.out.println("Phase 3: " + s.time[i][2]);
-			System.out.println("Total time: " + s.time[i][0] + s.time[i][1] + s.time[i][2]);
+			System.out.println("Total time: " + (s.time[i][0] + s.time[i][1] + s.time[i][2]));
 		}
 	}
 }
