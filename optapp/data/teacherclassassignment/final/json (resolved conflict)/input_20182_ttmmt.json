@@ -1,0 +1,6643 @@
+{
+  "classes": [
+    {
+      "code": "2335",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 221505,
+          "endTime": 221730,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-502A"
+        }
+      ],
+      "course": {
+        "code": "IT4815Q",
+        "name": "Quản trị mạng",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "hai.tranhoang@hust.edu.vn"
+    },
+    {
+      "code": "2333",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 321230,
+          "endTime": 321455,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-505"
+        }
+      ],
+      "course": {
+        "code": "IT4650Q",
+        "name": "Thiết kế mạng Intranet",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "hoang.phamhuy@hust.edu.vn"
+    },
+    {
+      "code": "108524",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 421230,
+          "endTime": 421400,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-406"
+        },
+        {
+          "index": 2,
+          "startTime": 621230,
+          "endTime": 621400,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-406"
+        }
+      ],
+      "course": {
+        "code": "IT3080",
+        "name": "Mạng máy tính",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "thu.ngoquynh@hust.edu.vn"
+    },
+    {
+      "code": "107470",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 621410,
+          "endTime": 621730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TVTQB-811"
+        }
+      ],
+      "course": {
+        "code": "IT2120",
+        "name": "Kiến thức máy tính",
+        "type": "BT+TN+LT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.dangtuan@hust.edu.vn"
+    },
+    {
+      "code": "110008",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 321505,
+          "endTime": 321730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-306"
+        }
+      ],
+      "course": {
+        "code": "IT4921",
+        "name": "Các giao thức định tuyến",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.truongthidieu@hust.edu.vn"
+    },
+    {
+      "code": "108528",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521315,
+          "endTime": 521645,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-405"
+        }
+      ],
+      "course": {
+        "code": "IT4010",
+        "name": "An toàn và bảo mật thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "uy.dovan@hust.edu.vn"
+    },
+    {
+      "code": "107427",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 410645,
+          "endTime": 411005,
+          "weeks": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-102"
+        }
+      ],
+      "course": {
+        "code": "IT3082E",
+        "name": "Computer Network",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.truongthidieu@hust.edu.vn"
+    },
+    {
+      "code": "107418",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521230,
+          "endTime": 521400,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-406"
+        }
+      ],
+      "course": {
+        "code": "IT3402E",
+        "name": "Web Information System",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "hoang.phamhuy@hust.edu.vn"
+    },
+    {
+      "code": "2604",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 110645,
+          "endTime": 111145,
+          "weeks": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-301"
+        }
+      ],
+      "course": {
+        "code": "IT4260Q",
+        "name": "An ninh mạng",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "toan.nguyenduc1@hust.edu.vn"
+    },
+    {
+      "code": "107423",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 310825,
+          "endTime": 311145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TVTQB-814"
+        }
+      ],
+      "course": {
+        "code": "IT4062E",
+        "name": "Network Programming",
+        "type": "BT+TN+LT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.truongthidieu@hust.edu.vn"
+    },
+    {
+      "code": "2331",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 510920,
+          "endTime": 511145,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-503B"
+        }
+      ],
+      "course": {
+        "code": "IT4590Q",
+        "name": "Lý thuyết thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.dangtuan@hust.edu.vn"
+    },
+    {
+      "code": "2308",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 210645,
+          "endTime": 211005,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-505"
+        }
+      ],
+      "course": {
+        "code": "IT4010Q",
+        "name": "An toàn và bảo mật thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "toan.nguyenduc1@hust.edu.vn"
+    },
+    {
+      "code": "681946",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 310735,
+          "endTime": 311105,
+          "weeks": [
+            33,
+            34,
+            35,
+            36
+          ],
+          "location": "B1-801"
+        }
+      ],
+      "course": {
+        "code": "IT4601",
+        "name": "Thiết bị truyền thông và mạng",
+        "type": "TN"
+      },
+      "department": "TTMMT",
+      "emails": "hai.nguyentuan@hust.edu.vn"
+    },
+    {
+      "code": "107471",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 621410,
+          "endTime": 621730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TVTQB-812"
+        }
+      ],
+      "course": {
+        "code": "IT2120",
+        "name": "Kiến thức máy tính",
+        "type": "BT+TN+LT"
+      },
+      "department": "TTMMT",
+      "emails": "mai.banhthiquynh@hust.edu.vn"
+    },
+    {
+      "code": "107329",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 410825,
+          "endTime": 411145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TVTQB-813"
+        }
+      ],
+      "course": {
+        "code": "IT4946",
+        "name": "Linux hệ nhúng theo chuẩn kỹ năng ITSS",
+        "type": "BT+TN+TH"
+      },
+      "department": "TTMMT",
+      "emails": "mai.banhthiquynh@hust.edu.vn"
+    },
+    {
+      "code": "108262",
+      "credit": 4,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 621315,
+          "endTime": 621645,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D3-401"
+        }
+      ],
+      "course": {
+        "code": "IT1110",
+        "name": "Tin học đại cương",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "tung.buitrong@hust.edu.vn"
+    },
+    {
+      "code": "2332",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 510920,
+          "endTime": 511145,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-304"
+        }
+      ],
+      "course": {
+        "code": "IT4610Q",
+        "name": "Hệ phân tán",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "anh.tranhai@hust.edu.vn"
+    },
+    {
+      "code": "681947",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 510735,
+          "endTime": 511105,
+          "weeks": [
+            33,
+            34,
+            35,
+            36
+          ],
+          "location": "B1-801"
+        }
+      ],
+      "course": {
+        "code": "IT4601",
+        "name": "Thiết bị truyền thông và mạng",
+        "type": "TN"
+      },
+      "department": "TTMMT",
+      "emails": "hai.nguyentuan@hust.edu.vn"
+    },
+    {
+      "code": "108552",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 221230,
+          "endTime": 221455,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-410"
+        }
+      ],
+      "course": {
+        "code": "IT4601",
+        "name": "Thiết bị truyền thông và mạng",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "toan.nguyenduc1@hust.edu.vn"
+    },
+    {
+      "code": "108544",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 321230,
+          "endTime": 321455,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-406"
+        }
+      ],
+      "course": {
+        "code": "IT4590",
+        "name": "Lý thuyết thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "chuyet.dangvan@hust.edu.vn"
+    },
+    {
+      "code": "108588",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 311015,
+          "endTime": 311145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D8-302"
+        },
+        {
+          "index": 2,
+          "startTime": 211015,
+          "endTime": 211145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D8-403"
+        }
+      ],
+      "course": {
+        "code": "IT4621",
+        "name": "Xử lý dữ liệu đa phương tiện",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "lan.nguyenthihoang@hust.edu.vn"
+    },
+    {
+      "code": "107420",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521410,
+          "endTime": 521550,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-406"
+        }
+      ],
+      "course": {
+        "code": "IT4682E",
+        "name": "Multimedia Communication",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "duc.tranquang@hust.edu.vn"
+    },
+    {
+      "code": "107534",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 221230,
+          "endTime": 221455,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D6-403"
+        }
+      ],
+      "course": {
+        "code": "IT4590",
+        "name": "Lý thuyết thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "chuyet.dangvan@hust.edu.vn"
+    },
+    {
+      "code": "107690",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521505,
+          "endTime": 521730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D4-103"
+        }
+      ],
+      "course": {
+        "code": "IT4304",
+        "name": "An toàn thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "giang.nguyenlinh@hust.edu.vn"
+    },
+    {
+      "code": "108587",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 310645,
+          "endTime": 311005,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D8-302"
+        }
+      ],
+      "course": {
+        "code": "IT4560",
+        "name": "Kỹ thuật truyền thông",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "thu.ngoquynh@hust.edu.vn"
+    },
+    {
+      "code": "107376",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 321230,
+          "endTime": 321400,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-501"
+        }
+      ],
+      "course": {
+        "code": "IT3082",
+        "name": "Mạng máy tính",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "tung.tahai@hust.edu.vn"
+    },
+    {
+      "code": "107419",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521600,
+          "endTime": 521730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-406"
+        }
+      ],
+      "course": {
+        "code": "IT4612E",
+        "name": "Distributed System",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "anh.tranhai@hust.edu.vn"
+    },
+    {
+      "code": "2309",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 610825,
+          "endTime": 611145,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-503B"
+        }
+      ],
+      "course": {
+        "code": "IT4010Q",
+        "name": "An toàn và bảo mật thông tin",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "giang.nguyenlinh@hust.edu.vn"
+    },
+    {
+      "code": "108350",
+      "credit": 4,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 321315,
+          "endTime": 321645,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D3-401"
+        }
+      ],
+      "course": {
+        "code": "IT1110",
+        "name": "Tin học đại cương",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "duc.tranquang@hust.edu.vn"
+    },
+    {
+      "code": "2336",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 610645,
+          "endTime": 610910,
+          "weeks": [
+            22,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D7-304"
+        }
+      ],
+      "course": {
+        "code": "IT4815Q",
+        "name": "Quản trị mạng",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "mai.banhthiquynh@hust.edu.vn"
+    },
+    {
+      "code": "108234",
+      "credit": 4,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521410,
+          "endTime": 521730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D3-201"
+        }
+      ],
+      "course": {
+        "code": "IT1110",
+        "name": "Tin học đại cương",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.dangtuan@hust.edu.vn"
+    },
+    {
+      "code": "107327",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 410645,
+          "endTime": 410815,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-404"
+        }
+      ],
+      "course": {
+        "code": "IT4612",
+        "name": "Hệ phân tán",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "anh.tranhai@hust.edu.vn"
+    },
+    {
+      "code": "108545",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 321505,
+          "endTime": 321730,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-406"
+        }
+      ],
+      "course": {
+        "code": "IT3110",
+        "name": "Linux và phần mềm nguồn mở",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "linh.dangtuan@hust.edu.vn"
+    },
+    {
+      "code": "107503",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 210920,
+          "endTime": 211145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D6-101"
+        }
+      ],
+      "course": {
+        "code": "IT4610",
+        "name": "Hệ phân tán",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "anh.tranhai@hust.edu.vn"
+    },
+    {
+      "code": "108600",
+      "credit": 3,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 410825,
+          "endTime": 411145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-406"
+        }
+      ],
+      "course": {
+        "code": "IT4819",
+        "name": "Quản trị mạng",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "chuyet.dangvan@hust.edu.vn"
+    },
+    {
+      "code": "107328",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 310825,
+          "endTime": 311145,
+          "weeks": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D9-405"
+        }
+      ],
+      "course": {
+        "code": "IT4682",
+        "name": "Truyền thông đa phương tiện",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "duc.tranquang@hust.edu.vn"
+    },
+    {
+      "code": "108206",
+      "credit": 4,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 421315,
+          "endTime": 421645,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D3-401"
+        }
+      ],
+      "course": {
+        "code": "IT1110",
+        "name": "Tin học đại cương",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "toan.nguyenduc1@hust.edu.vn"
+    },
+    {
+      "code": "108586",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 510645,
+          "endTime": 510910,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D8-403"
+        }
+      ],
+      "course": {
+        "code": "IT4815",
+        "name": "Quản trị mạng",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "hai.tranhoang@hust.edu.vn"
+    },
+    {
+      "code": "107330",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 510825,
+          "endTime": 511145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TVTQB-813"
+        }
+      ],
+      "course": {
+        "code": "IT4946",
+        "name": "Linux hệ nhúng theo chuẩn kỹ năng ITSS",
+        "type": "BT+TN+TH"
+      },
+      "department": "TTMMT",
+      "emails": "mai.banhthiquynh@hust.edu.vn"
+    },
+    {
+      "code": "107688",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 521230,
+          "endTime": 521455,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "D4-103"
+        }
+      ],
+      "course": {
+        "code": "IT4094",
+        "name": "Xử l‎ý ảnh",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "giang.nguyenlinh@hust.edu.vn"
+    },
+    {
+      "code": "110009",
+      "credit": 2,
+      "timeTable": [
+        {
+          "index": 1,
+          "startTime": 410920,
+          "endTime": 411145,
+          "weeks": [
+            22,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "location": "TC-311"
+        }
+      ],
+      "course": {
+        "code": "IT4927",
+        "name": "Web thế hệ mới",
+        "type": "LT+BT"
+      },
+      "department": "TTMMT",
+      "emails": "hoang.phamhuy@hust.edu.vn"
+    }
+  ],
+  "teachers": [
+    {
+      "code": "bang.banha@hust.edu.vn",
+      "name": "Ban Hà Bằng",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT3020",
+          "name": "Toán rời rạc",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT4766",
+          "name": "Lập trình kịch bản với JavaScript",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT3020Q",
+          "name": "Toán rời rạc",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3070",
+          "name": "Hệ điều hành",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3072E",
+          "name": "Operating Systems",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3070Q",
+          "name": "Hệ điều hành",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3220",
+          "name": "C Programming (Introduction)",
+          "type": "BT+TN+TH"
+        }
+      ]
+    },
+    {
+      "code": "mai.banhthiquynh@hust.edu.vn",
+      "name": "Bành Thị Quỳnh Mai",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4650",
+          "name": "Thiết kế mạng Intranet",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4815",
+          "name": "Quản trị mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4944",
+          "name": "Hệ điều hành và quản trị mạng Linux theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4946",
+          "name": "Linux hệ nhúng theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110Q",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4944",
+          "name": "Hệ điều hành và quản trị mạng Linux theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "BT+TN+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4946",
+          "name": "Linux hệ nhúng theo chuẩn kỹ năng ITSS",
+          "type": "BT+TN+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4815Q",
+          "name": "Quản trị mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "tung.buitrong@hust.edu.vn",
+      "name": "Bùi Trọng Tùng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3650",
+          "name": "Lập trình Java",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4060",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4260",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4263",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4830",
+          "name": "Phòng chống tấn công mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4263",
+          "name": "An ninh mạng",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080Q",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4260Q",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4830",
+          "name": "Phòng chống tấn công mạng",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "linh.dangtuan@hust.edu.vn",
+      "name": "Đặng Tuấn Linh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1014",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4592E",
+          "name": "Information Theory",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "BT+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "BT+TN+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4590Q",
+          "name": "Lý thuyết thông tin",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "sang.dinhviet@hust.edu.vn",
+      "name": "Đinh Viết Sang",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT3040Q",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3020",
+          "name": "Toán rời rạc",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3220",
+          "name": "C Programming (Introduction)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3680",
+          "name": "Thuật toán ứng dụng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4090",
+          "name": "Xử lý ảnh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4110",
+          "name": "Tính toán khoa học",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4342E",
+          "name": "Computer Vision",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5130",
+          "name": "Đồ án tốt nghiệp Kỹ sư",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT5210",
+          "name": "Đồ án tốt nghiệp kỹ sư (KHMT)",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT6720",
+          "name": "Trí tuệ nhân tạo nâng cao-1-16 (BKKH01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3020Q",
+          "name": "Toán rời rạc",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240",
+          "name": "Lập trình C (nâng cao)",
+          "type": "BT+TN+TH"
+        }
+      ]
+    },
+    {
+      "code": "lam.doba@hust.edu.vn",
+      "name": "Đỗ Bá Lâm",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3016",
+          "name": "Giải thuật & các vấn đề cho kỹ sư",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3090",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3220",
+          "name": "C Programming (Introduction)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240",
+          "name": "Lập trình C (nâng cao)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240E",
+          "name": "Data Structures and Algorithms Advanced Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4409",
+          "name": "Công nghệ Web và dịch vụ trực tuyến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552",
+          "name": "Thực hành Lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552E",
+          "name": "Web Programming",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4843",
+          "name": "Tích hợp dữ liệu và XML",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4852",
+          "name": "Thiết kế và quản trị cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4859",
+          "name": "Thiết kế và quản trị cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6472",
+          "name": "Các kỹ thuật, công cụ và ứng dụng Web ngữ nghĩa-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3290",
+          "name": "Thực hành cơ sở dữ liệu",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230E",
+          "name": "Data Structures and Algorithms Basic Lab",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "anh.dotuan@hust.edu.vn",
+      "name": "Đỗ Tuấn Anh",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3070",
+          "name": "Hệ điều hành",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4030",
+          "name": "Nhập môn hệ quản trị cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3011",
+          "name": "Cấu trúc dữ liệu và thuật toán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3010Q",
+          "name": "Cấu trúc dữ liệu và giải thuật",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "banghs@soict.hust.edu.vn",
+      "name": "Hồ Sĩ Bàng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3087",
+          "name": "Máy tính và mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4661",
+          "name": "Quản trị dữ liệu phân tán",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "viet.hoanganh@hust.edu.vn",
+      "name": "Hoàng Anh Việt",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3921",
+          "name": "Đồ án II: Phân tích thiết kế hệ thống",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4080",
+          "name": "Nhập môn công nghệ phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4408",
+          "name": "Thiết kế và lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4480",
+          "name": "Làm việc nhóm và kỹ năng giao tiếp",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4542E",
+          "name": "Management of Software Development",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552",
+          "name": "Thực hành Lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4875",
+          "name": "Xử lý ngôn ngữ tự nhiên",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4887",
+          "name": "Mạng không dây và phát triển ứng dụng di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4887Q",
+          "name": "Mạng không dây và phát triển ứng dụng di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4481Q",
+          "name": "Kỹ năng mềm trong CNTT&TT",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4895Q",
+          "name": "Công nghệ Web tiên tiến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4481Q",
+          "name": "Kỹ năng mềm trong CNTT&TT",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hiep.hoangvan@hust.edu.vn",
+      "name": "Hoàng Văn Hiệp",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280E",
+          "name": "Assembly Language and Computer Architecture Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3941",
+          "name": "Đồ án 3: Định hướng công nghệ",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4099",
+          "name": "Xử lý ảnh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4160",
+          "name": "Vi xử lý",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4261",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4630",
+          "name": "Phân tích mã độc",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4785",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000Q",
+          "name": "Nhập môn Công nghệ thông tin và Truyền thông",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000Q",
+          "name": "Nhập môn Công nghệ Thông tin và Truyền thông",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành Mạch logic",
+          "type": "BT+TH+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "vinh.lathe@hust.edu.vn",
+      "name": "Lã Thế Vinh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4060",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4782",
+          "name": "Lập trình .NET",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4785",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4929",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7901",
+          "name": "Xử lý dữ liệu trong các hệ thống định vị",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7921",
+          "name": "Nhận dạng đối tượng trong môi trường thực  -",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4789",
+          "name": "Lập trình .net",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4782Q",
+          "name": "Lập trình .NET",
+          "type": "LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3220",
+          "name": "C Programming (Introduction)",
+          "type": "BT+TN+TH"
+        }
+      ]
+    },
+    {
+      "code": "thanh.lexuan@hust.edu.vn",
+      "name": "Lê Xuân Thành",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270E",
+          "name": "Logic Circuit Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4150",
+          "name": "Kỹ thuật mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4220",
+          "name": "Quản trị an toàn thông tin và rủi ro",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4261",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4796",
+          "name": "Phân tích và thiết kế hệ thống mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4819",
+          "name": "Quản trị mạng",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành Mạch logic",
+          "type": "BT+TH+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4819",
+          "name": "Quản trị mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000Q",
+          "name": "Nhập môn Công nghệ thông tin và Truyền thông",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "hoangla@soict.hust.edu.vn",
+      "name": "Lương Ánh Hoàng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "trung.ngolam@hust.edu.vn",
+      "name": "Ngô Lam Trung",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3030",
+          "name": "Kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3282E",
+          "name": "Computer Architecture",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4160",
+          "name": "Vi xử lý",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4210",
+          "name": "Hệ nhúng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4212",
+          "name": "Hệ thống thời gian thực",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4212E",
+          "name": "Realtime System",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4782",
+          "name": "Lập trình .NET",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4785",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4947E",
+          "name": "ITSS Project Management for Embedded System",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6230",
+          "name": "Phân tích và thiết kế hệ thống nhúng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7911",
+          "name": "Mô hình hóa và thiết kế hệ thống nhúng ",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4210",
+          "name": "Hệ nhúng",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4947E",
+          "name": "ITSS Project Management for Embedded System",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "linh.ngovan@hust.edu.vn",
+      "name": "Ngô Văn Linh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3220",
+          "name": "C Programming (Introduction)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240",
+          "name": "Lập trình C (nâng cao)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4040",
+          "name": "Trí tuệ nhân tạo",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3160",
+          "name": "Nhập môn Trí tuệ nhân tạo",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4866",
+          "name": "Học máy",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4040Q",
+          "name": "Trí tuệ nhân tạo",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240",
+          "name": "Lập trình C (nâng cao)",
+          "type": "BT+TN+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3220",
+          "name": "C Programming (Introduction)",
+          "type": "BT+TN+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4044",
+          "name": "Trí tuệ nhân tạo",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "ngoc.nguyenba@hust.edu.vn",
+      "name": "Nguyễn Bá Ngọc",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3120",
+          "name": "Phân tích thiết kế hệ thống thông tin",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240",
+          "name": "Lập trình C (nâng cao)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3620",
+          "name": "Phân tích và thiết kế hệ thống thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4853",
+          "name": "Tìm kiếm thông tin và trình diễn thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5340",
+          "name": "Tìm kiếm và trình diễn thông tin-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6365",
+          "name": "Công nghệ web ngữ nghĩa",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7341",
+          "name": "Tìm kiếm thông tin ",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4380Q",
+          "name": "Phân tích thiết kế hệ thống hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4853Q",
+          "name": "Tìm kiếm thông tin và trình diễn thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3120Q",
+          "name": "Phân tích và thiết kế hệ thống thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102",
+          "name": "Lý thuyết và ngôn ngữ hướng đối tượng",
+          "type": "BT+TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3120",
+          "name": "Phân tích và thiết kế hệ thống thông tin",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "minh.nguyenbinh@hust.edu.vn",
+      "name": "Nguyễn Bình Minh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3210",
+          "name": "C Programming Language",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4371",
+          "name": "Các hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4409",
+          "name": "Công nghệ Web và dịch vụ trực tuyến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4610",
+          "name": "Hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4867",
+          "name": "Xử lý dữ liệu phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4910",
+          "name": "Điện toán đám mây",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4940",
+          "name": "Project 3",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4991",
+          "name": "Thực tập kỹ thuật",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT5460",
+          "name": "Thiết kế và xây dựng phần mềm phân tán-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6365",
+          "name": "Công nghệ web ngữ nghĩa",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6500",
+          "name": "Điện toán đám mây-2-17 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7381",
+          "name": "Các chủ đề nâng cao trong xử lý dữ liệu lớn -",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4899Q",
+          "name": "Công nghệ tác tử",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "thuan.nguyendinh@hust.edu.vn",
+      "name": "Nguyễn Đình Thuận",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270E",
+          "name": "Logic Circuit Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4160",
+          "name": "Vi xử lý",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4240Q",
+          "name": "Quản trị dự án công nghệ thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4200",
+          "name": "Kỹ thuật ghép nối máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280E",
+          "name": "Assembly Language and Computer Architecture Lab",
+          "type": "BT+TN+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "tien.nguyenduc@hust.edu.vn",
+      "name": "Nguyễn Đức Tiến",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3030",
+          "name": "Kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270E",
+          "name": "Logic Circuit Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280E",
+          "name": "Assembly Language and Computer Architecture Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4150",
+          "name": "Kỹ thuật mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4240",
+          "name": "Quản trị dự án công nghệ thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4251",
+          "name": "Thiết kế IC",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4272E",
+          "name": "Computer Systems",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4947",
+          "name": "Quản trị dự án hệ nhúng theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4856",
+          "name": "Quản trị dự án",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "BT+TN+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3030Q",
+          "name": "Kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4947",
+          "name": "Quản trị dự án hệ nhúng theo chuẩn kỹ năng ITSS",
+          "type": "BT+TN+TH"
+        }
+      ]
+    },
+    {
+      "code": "toan.nguyenduc1@hust.edu.vn",
+      "name": "Nguyễn Đức Toàn",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1014",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3087",
+          "name": "Máy tính và mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4684",
+          "name": "Mạng số và truyền dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4944",
+          "name": "Hệ điều hành và quản trị mạng Linux theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080Q",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4944",
+          "name": "Hệ điều hành và quản trị mạng Linux theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT4260Q",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010Q",
+          "name": "An toàn và bảo mật thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4601",
+          "name": "Thiết bị truyền thông và mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hiep.nguyenduy@hust.edu.vn",
+      "name": "Nguyễn Duy Hiệp",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT4768",
+          "name": "Nhập môn khai phá dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3010",
+          "name": "Cấu trúc dữ liệu và giải thuật",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3210",
+          "name": "C Programming Language",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3312",
+          "name": "Cấu trúc dữ liệu và giải thuật",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3011",
+          "name": "Cấu trúc dữ liệu và thuật toán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3014",
+          "name": "Cấu trúc dữ liệu và GT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3010Q",
+          "name": "Cấu trúc dữ liệu và giải thuật",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "phuong.nguyenhong@hust.edu.vn",
+      "name": "Nguyễn Hồng Phương",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3090",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3094",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3290",
+          "name": "Thực hành cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3290E",
+          "name": "Database Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3292",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3590",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4843",
+          "name": "Tích hợp dữ liệu và XML",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4843Q",
+          "name": "Tích hợp dữ liệu và XML",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3290",
+          "name": "Thực hành cơ sở dữ liệu",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3090Q",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3290E",
+          "name": "Database Lab",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "quang.nguyenhong@hust.edu.vn",
+      "name": "Nguyễn Hồng Quang",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3660",
+          "name": "Lập trình Android",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4170",
+          "name": "Xử lý tín hiệu số",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4173",
+          "name": "Xử lý số tín hiệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4174",
+          "name": "Xử lý tín hiệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4784",
+          "name": "Lập trình JAVA",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4785",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4786",
+          "name": "Lập trình hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4805",
+          "name": "Mạng nơron",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4929",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7931",
+          "name": "Nhận dạng và tìm kiếm thông tin trong dữ liệu tiếng nói  -",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4172",
+          "name": "Xử lý tín hiệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3210",
+          "name": "C Programming Language",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hieu.nguyenkiem@hust.edu.vn",
+      "name": "Nguyễn Kiêm Hiếu",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3016",
+          "name": "Giải thuật & các vấn đề cho kỹ sư",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4409",
+          "name": "Công nghệ Web và dịch vụ trực tuyến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4772",
+          "name": "Xử lý ngôn ngữ tự nhiên",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4868",
+          "name": "Khai phá Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4875",
+          "name": "Xử lý ngôn ngữ tự nhiên",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240E",
+          "name": "Data Structures and Algorithms Advanced Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "tuan.nguyenmanh@hust.edu.vn",
+      "name": "Nguyễn Mạnh Tuấn",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3100",
+          "name": "Lập trình hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102",
+          "name": "Lý thuyết và ngôn ngữ hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3541",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3600",
+          "name": "Lập trình hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010",
+          "name": "An toàn bảo mật thông tin",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4080",
+          "name": "Nhập môn công nghệ phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4403",
+          "name": "Phát triển hệ thống Web an toàn",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4408",
+          "name": "Thiết kế và lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552",
+          "name": "Thực hành Lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4892",
+          "name": "Phương pháp và công cụ đánh giá phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4895",
+          "name": "Công nghệ Web tiên tiến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4945",
+          "name": "Phát triển phần mềm theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5000",
+          "name": "Thực tập tốt nghiệp",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT3180",
+          "name": "Nhập môn công nghệ phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4895Q",
+          "name": "Công nghệ Web tiên tiến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102E",
+          "name": "Object-Oriented Language and Theory (Java)",
+          "type": "BT+TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4892Q",
+          "name": "Phương pháp và công cụ đánh giá phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102",
+          "name": "Lý thuyết và ngôn ngữ hướng đối tượng",
+          "type": "BT+TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4460Q",
+          "name": "Phân tích yêu cầu phần mềm",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "nga.nguyenthithanh@hust.edu.vn",
+      "name": "Nguyễn Thị Thanh Nga",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3133",
+          "name": "Điện tử số",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270E",
+          "name": "Logic Circuit Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4150",
+          "name": "Kỹ thuật mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3420",
+          "name": "Điện tử cho CNTT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3430",
+          "name": "Kỹ thuật điện tử tương tự và số",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000Q",
+          "name": "Nhập môn Công nghệ thông tin và Truyền thông",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "huong.nguyenthithu@hust.edu.vn",
+      "name": "Nguyễn Thị Thu Hương",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2110",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3022E",
+          "name": "Discrete Math",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3322",
+          "name": "Xây dựng chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3322E",
+          "name": "Compiler Construction",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4020",
+          "name": "Nhập môn lý thuyết tính toán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4024",
+          "name": "Mô hình hóa bằng automat",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4079",
+          "name": "Ngôn ngữ và phương pháp dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182",
+          "name": "Thực hành xây dựng chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182E",
+          "name": "Compiler Construction Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4875",
+          "name": "Xử lý ngôn ngữ tự nhiên",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4876",
+          "name": "Nhập môn chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6020",
+          "name": "Nguyên lý các ngôn ngữ lập trình-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6765",
+          "name": "Xử lý ngôn ngữ tự nhiên-1-16 (BKKH01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7110",
+          "name": "Mô hình hình thức của các hệ thống truyền thông  -",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7151",
+          "name": "Mô hình hình thức của các hệ thống truyền thông",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182",
+          "name": "Thực hành xây dựng chương trình dịch",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "trang.nguyenthithu@hust.edu.vn",
+      "name": "Nguyễn Thị Thu Trang",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3053",
+          "name": "Tiếng Anh CN CNTT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102",
+          "name": "Lý thuyết và ngôn ngữ hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4080",
+          "name": "Nhập môn công nghệ phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4460",
+          "name": "Phân tích yêu cầu phần mềm",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4480",
+          "name": "Làm việc nhóm và kỹ năng giao tiếp",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4490",
+          "name": "Thiết kế và xây dựng phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4530",
+          "name": "Kỹ năng lập báo cáo kỹ thuật và dự án",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4541",
+          "name": "Quản lý dự án phần mềm",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4945",
+          "name": "Phát triển phần mềm theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4945E",
+          "name": "ITSS Software Development",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6451",
+          "name": "Kiến trúc phần mềm – các chủ đề nâng cao-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4945",
+          "name": "Phát triển phần mềm theo chuẩn kỹ năng ITSS",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102E",
+          "name": "Object-Oriented Language and Theory (Java)",
+          "type": "BT+TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102",
+          "name": "Lý thuyết và ngôn ngữ hướng đối tượng",
+          "type": "BT+TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102",
+          "name": "Lý thuyết và ngôn ngữ hướng đối tượng",
+          "type": "LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3102E",
+          "name": "Object-Oriented Language and Theory (Java)",
+          "type": "LT"
+        }
+      ]
+    },
+    {
+      "code": "dung.nguyentuan@hust.edu.vn",
+      "name": "Nguyễn Tuấn Dũng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT3680",
+          "name": "Thuật toán ứng dụng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3010",
+          "name": "Cấu trúc dữ liệu và giải thuật",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3240",
+          "name": "Lập trình C (nâng cao)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4130",
+          "name": "Lập trình song song",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4730",
+          "name": "An toàn cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4752",
+          "name": "Tính toán song song",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4766",
+          "name": "Lập trình kịch bản với JavaScript",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4804",
+          "name": "Đa phương tiện",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4898",
+          "name": "Multimedia, trò chơi và các hệ thống giải trí",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3011",
+          "name": "Cấu trúc dữ liệu và thuật toán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3680Q",
+          "name": "Java nâng cao",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4898Q",
+          "name": "Multimedia, trò chơi và các hệ thống giải trí",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4804Q",
+          "name": "Đa phương tiện",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3680Q",
+          "name": "Java nâng cao",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4130Q",
+          "name": "Lập trình song song",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hai.phamdang@hust.edu.vn",
+      "name": "Phạm Đăng Hải",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3070",
+          "name": "Hệ điều hành",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3072",
+          "name": "Hệ điều hành",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3322",
+          "name": "Xây dựng chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4074",
+          "name": "Lý thuyết ngôn ngữ và phương pháp dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4079",
+          "name": "Ngôn ngữ và phương pháp dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182",
+          "name": "Thực hành xây dựng chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4757",
+          "name": "Kỹ thuật mô hình hóa và mô phỏng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4778",
+          "name": "Lập trình hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6020",
+          "name": "Nguyên lý các ngôn ngữ lập trình-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6190",
+          "name": "Chuyên đề 2:  Các kỹ thuật hiện đại trong CNTT-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6700",
+          "name": "Nguyên lý các ngôn ngữ lập trình-1-16 (BKKH01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4079Q",
+          "name": "Ngôn ngữ và phương pháp dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3074",
+          "name": "Hệ điều hành",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182",
+          "name": "Thực hành xây dựng chương trình dịch",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "hoang.phamhuy@hust.edu.vn",
+      "name": "Phạm Huy Hoàng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3402",
+          "name": "Hệ thống thông tin trên Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3402E",
+          "name": "Web Information System",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3650",
+          "name": "Lập trình Java",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4152",
+          "name": "Kiến trúc phần mềm mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4152E",
+          "name": "Network Software Architecture",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4650",
+          "name": "Thiết kế mạng Intranet",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4927",
+          "name": "Web thế hệ mới",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5590",
+          "name": "Web thế hệ mới-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5630",
+          "name": "Quản trị dự án Công nghệ thông tin-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5650",
+          "name": "Thiết kế mạng-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6595",
+          "name": "Web 3.0 và các dịch vụ Internet thế hệ mới-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4650Q",
+          "name": "Thiết kế mạng Intranet",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hung.phamngoc1@hust.edu.vn",
+      "name": "Phạm Ngọc Hưng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270E",
+          "name": "Logic Circuit Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4160",
+          "name": "Vi xử lý",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4210",
+          "name": "Hệ nhúng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4272E",
+          "name": "Computer Systems",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4782",
+          "name": "Lập trình .NET",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4786",
+          "name": "Lập trình hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4210",
+          "name": "Hệ nhúng",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành Mạch logic",
+          "type": "BT+TH+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280E",
+          "name": "Assembly Language and Computer Architecture Lab",
+          "type": "BT+TN+LT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3030Q",
+          "name": "Kiến trúc máy tính",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "anh.tranhai@hust.edu.vn",
+      "name": "Trần Hải Anh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3660",
+          "name": "Lập trình Android",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4371",
+          "name": "Các hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4610",
+          "name": "Hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4612",
+          "name": "Hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4612E",
+          "name": "Distributed System",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4614",
+          "name": "Các hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5640",
+          "name": "Nền tảng hệ thống cho ứng dụng phân tán-1-16 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6575",
+          "name": "Nguyên lý và mô thức phát triển hệ phân tán-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110Q",
+          "name": "LINUX và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4610Q",
+          "name": "Hệ phân tán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT+TH"
+        }
+      ]
+    },
+    {
+      "code": "duc.tranquang@hust.edu.vn",
+      "name": "Trần Quang Đức",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1014",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4090",
+          "name": "Xử lý ảnh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4450",
+          "name": "Cơ sở pháp lý số",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4680",
+          "name": "Truyền thông đa phương tiện và ứng dụng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4681",
+          "name": "Truyền thông đa phương tiện",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4682E",
+          "name": "Multimedia Communication",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4810",
+          "name": "Đánh giá kiểm định an toàn hệ thống thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5860",
+          "name": "An ninh mạng-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4681",
+          "name": "Truyền thông đa phương tiện",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4680",
+          "name": "Truyền thông đa phương tiện và ứng dụng",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4450",
+          "name": "Cơ sở pháp lý số",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4682",
+          "name": "Truyền thông đa phương tiện",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "phuc.trinhanh@hust.edu.vn",
+      "name": "Trịnh Anh Phúc",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3010",
+          "name": "Cấu trúc dữ liệu và giải thuật",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3014",
+          "name": "Cấu trúc dữ liệu và GT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4030",
+          "name": "Nhập môn hệ quản trị cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182",
+          "name": "Thực hành xây dựng chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4756",
+          "name": "Thương mại điện tử",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4768",
+          "name": "Nhập môn khai phá dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5700",
+          "name": "Nhập môn khai phá dữ liệu-2-17 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4758",
+          "name": "Nhập môn học máy",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3011",
+          "name": "Cấu trúc dữ liệu và thuật toán",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4182",
+          "name": "Thực hành xây dựng chương trình dịch",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "dat.trinhtuan@hust.edu.vn",
+      "name": "Trịnh Tuấn Đạt",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3040",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3100",
+          "name": "Lập trình hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4480",
+          "name": "Làm việc nhóm và kỹ năng giao tiếp",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4481",
+          "name": "Kỹ năng mềm trong CNTT&TT + TN",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4490",
+          "name": "Thiết kế và xây dựng phần mềm",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4530",
+          "name": "Kỹ năng lập báo cáo kỹ thuật và dự án",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552",
+          "name": "Thực hành Lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552E",
+          "name": "Web Programming",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4876",
+          "name": "Nhập môn chương trình dịch",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5000",
+          "name": "Thực tập tốt nghiệp",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4945E",
+          "name": "ITSS Software Development",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552",
+          "name": "Thực hành Lập trình Web",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3104",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4552E",
+          "name": "Web Programming",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "linh.truongthidieu@hust.edu.vn",
+      "name": "Trương Diệu Linh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3084",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062E",
+          "name": "Network Programming",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4921",
+          "name": "Các giao thức định tuyến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5610",
+          "name": "Các giao thức định tuyến-1-16 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6560",
+          "name": "Mạng máy tính tiên tiến-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062",
+          "name": "Thực hành Lập trình mạng",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT3082E",
+          "name": "Computer Network",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4062E",
+          "name": "Network Programming",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "vuong.vuduc@hust.edu.vn",
+      "name": "Vũ Đức Vượng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3040",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3045",
+          "name": "Kỹ thuật lập trình an toàn",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3230",
+          "name": "Lập trình C cơ bản",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3541",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3921",
+          "name": "Đồ án II: Phân tích thiết kế hệ thống",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4551",
+          "name": "Phát triển phần mềm chuyên nghiệp",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4551Q",
+          "name": "Đồ án môn học",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3104",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3040Q",
+          "name": "Kỹ thuật lập trình",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "thieu.vuvan@hust.edu.vn",
+      "name": "Vũ Văn Thiệu",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 1,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT2110",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 1,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4110",
+          "name": "Tính toán khoa học",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4130",
+          "name": "Lập trình song song",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4752",
+          "name": "Tính toán song song",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4766",
+          "name": "Lập trình kịch bản với JavaScript",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6710",
+          "name": "Tính toán phân tán-1-16 (BK02)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7121",
+          "name": "Lập trình song song cho các hệ thống đa lõi  -",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3250E",
+          "name": "Computer Ethics",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT+TH"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4110Q",
+          "name": "Tính toán khoa học",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hoa.lethi@hust.edu.vn",
+      "name": "Lê Thị Hoa",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3600",
+          "name": "Lập trình hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3921",
+          "name": "Đồ án II: Phân tích thiết kế hệ thống",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4240",
+          "name": "Quản trị dự án công nghệ thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4408",
+          "name": "Thiết kế và lập trình Web",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4856",
+          "name": "Quản trị dự án",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4859",
+          "name": "Thiết kế và quản trị cơ sở dữ liệu",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3090",
+          "name": "Cơ sở dữ liệu",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4551Q",
+          "name": "Phát triển phần mềm chuyên nghiệp",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4408",
+          "name": "Thiết kế và lập trình Web",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "trung.lequoc@hust.edu.vn",
+      "name": "Lê Quốc Trung",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1016",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "cuong.lehuy@hust.edu.vn",
+      "name": "Lê Huy Cường",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4819",
+          "name": "Quản trị mạng",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1014",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "liem.phamthanh@hust.edu.vn",
+      "name": "Phạm Thanh Liêm",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "dung.tranthi@hust.edu.vn",
+      "name": "Trần Thị Dung",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110Q",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "tri.taminh@hust.edu.vn",
+      "name": "Tạ Minh Trí",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3590",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4694",
+          "name": "Mạng số và truyền dữ liệu",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "nga.nhuthi@hust.edu.vn",
+      "name": "Nhữ Thị Nga",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "hai.nguyentuan@hust.edu.vn",
+      "name": "Nguyễn Tuấn Hải",
+      "maxCredit": 50,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3087",
+          "name": "Máy tính và mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4601",
+          "name": "Thiết bị truyền thông và mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT3087",
+          "name": "Máy tính và mạng máy tính",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4601",
+          "name": "Thiết bị truyền thông và mạng",
+          "type": "TN"
+        }
+      ]
+    },
+    {
+      "code": "hung.nguyenan@hust.edu.vn",
+      "name": "Nguyễn An Hưng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3590",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hungd@soict.hust.edu.vn",
+      "name": "Đinh Hùng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "quangln@soict.hust.edu.vn",
+      "name": "Lưu Ngọc Quang",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "vui.leba@hust.edu.vn",
+      "name": "Lê Bá Vui",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270",
+          "name": "Thực hành mạch logic",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4060",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4785",
+          "name": "Phát triển ứng dụng cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình Mạng",
+          "type": "TN"
+        },
+        {
+          "priority": 2,
+          "code": "IT4785Q",
+          "name": "Lập trình cho thiết bị di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3270E",
+          "name": "Logic Circuit Lab",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4060Q",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3280",
+          "name": "Thực hành kiến trúc máy tính",
+          "type": "BT+TN+LT"
+        }
+      ]
+    },
+    {
+      "code": "ha.phamthai@hust.edu.vn",
+      "name": "Phạm Thái Hà",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1130",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1140",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4069",
+          "name": "Lập trình mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "tanhnv@soict.hust.edu.vn",
+      "name": "Nguyễn Văn Tánh",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT2000",
+          "name": "Nhập môn CNTT và TT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "SIEInternet",
+          "name": "Internet",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "thu.ngoquynh@hust.edu.vn",
+      "name": "Ngô Quỳnh Thu",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT2120",
+          "name": "Kiến thức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4560",
+          "name": "Kỹ thuật truyền thông",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4652",
+          "name": "Mạng Internet",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4652E",
+          "name": "Internetworking",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4670",
+          "name": "Đánh giá hiệu năng mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5560",
+          "name": "Kỹ thuật truyền thông-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5670",
+          "name": "Đánh giá hiệu năng mạng-1-16 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6605",
+          "name": "Mạng di động thế hệ mới-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7710",
+          "name": "Mô phỏng mạng ",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7781",
+          "name": "Đánh giá hiệu năng mạng truyền thông",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4593",
+          "name": "Nhập môn kỹ thuật truyền thông",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "giang.nguyenlinh@hust.edu.vn",
+      "name": "Nguyễn Linh Giang",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT2130",
+          "name": "Tín hiệu và hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010",
+          "name": "An toàn bảo mật thông tin",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4094",
+          "name": "Xử l‎ý ảnh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4220",
+          "name": "Quản trị an toàn thông tin và rủi ro",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4260",
+          "name": "An ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4592E",
+          "name": "Information Theory",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4682",
+          "name": "Truyền thông đa phương tiện",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4810",
+          "name": "Đánh giá kiểm định an toàn hệ thống thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5860",
+          "name": "An ninh mạng-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6580",
+          "name": "Các giải pháp và chính sách an ninh mạng-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6600",
+          "name": "Nhận dạng-1-16 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6615",
+          "name": "An ninh trong giao dịch điện tử-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7720",
+          "name": "Các xu hướng nghiên cứu mới về truyền thông và mạng MT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7741",
+          "name": "Các chủ đề tiên tiến trong xử lý tín hiệu số  -",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7761",
+          "name": "Ước lượng tín hiệu và hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010Q",
+          "name": "An toàn và bảo mật thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4090",
+          "name": "Xử lý ảnh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4304",
+          "name": "An toàn thông tin",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "chuyet.dangvan@hust.edu.vn",
+      "name": "Đặng Văn Chuyết",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT2130",
+          "name": "Tín hiệu và hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4590",
+          "name": "Lý thuyết thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4592",
+          "name": "Lý thuyết thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4594",
+          "name": "L‎ý thuyết thông tin và truyền thông số",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4935",
+          "name": "Tương thích điện từ",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6570",
+          "name": "Truyền thông số-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4593",
+          "name": "Nhập môn kỹ thuật truyền thông",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4819",
+          "name": "Quản trị mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "van.nguyenkhanh@hust.edu.vn",
+      "name": "Nguyễn Khanh Văn",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3060",
+          "name": "Toán chuyên đề",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010",
+          "name": "An toàn bảo mật thông tin",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4012E",
+          "name": "Information Security",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4013",
+          "name": "An toàn thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4015",
+          "name": "Nhập môn an toàn thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4262",
+          "name": "Bảo mật mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4262E",
+          "name": "Network Security",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4885",
+          "name": "Mô hình và thuật toán Internet phổ biến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4888",
+          "name": "Văn phong Kỹ thuật (Technical Writing)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5470",
+          "name": "Mô hình ngẫu nhiên và ứng dụng-1-16 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6430",
+          "name": "An toàn và bảo mật thông tin-1-16 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010",
+          "name": "An toàn và bảo mật thông tin",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "lan.nguyenthihoang@hust.edu.vn",
+      "name": "Nguyễn Thị Hoàng Lan",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3061",
+          "name": "Quá trình ngẫu nhiên ứng dụng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4090",
+          "name": "Xử lý ảnh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4374",
+          "name": "Kiến trúc các hệ thống thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4621",
+          "name": "Xử lý dữ liệu đa phương tiện",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4680",
+          "name": "Truyền thông đa phương tiện và ứng dụng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4681",
+          "name": "Truyền thông đa phương tiện",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5620",
+          "name": "Xử lý dữ liệu đa phương tiện-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6565",
+          "name": "Truyền dữ liệu đa phương tiện-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7720",
+          "name": "Các xu hướng nghiên cứu mới về truyền thông và mạng MT",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "tung.tahai@hust.edu.vn",
+      "name": "Tạ Hải Tùng",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3082E",
+          "name": "Computer Network",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4592E",
+          "name": "Information Theory",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4690",
+          "name": "Mạng không dây và truyền thông di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4700",
+          "name": "Các hệ thống thông tin vệ tinh",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5570",
+          "name": "Mạng không dây và truyền thông di động-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7901",
+          "name": "Xử lý dữ liệu trong các hệ thống định vị",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3082",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "son.ngohong@hust.edu.vn",
+      "name": "Ngô Hồng Sơn",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3082",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3084",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3088",
+          "name": "Mạng tin học",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4601",
+          "name": "Thiết bị truyền thông và mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4684",
+          "name": "Mạng số và truyền dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5600",
+          "name": "Tính toán di động-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6560",
+          "name": "Mạng máy tính tiên tiến-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6620",
+          "name": "Tính toán khắp nơi và di động-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6630",
+          "name": "Mạng trung tâm dữ liệu và điện toán đám mây-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7720",
+          "name": "Các xu hướng nghiên cứu mới về truyền thông và mạng MT",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT7751",
+          "name": "Mạng thế hệ mới",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hai.tranhoang@hust.edu.vn",
+      "name": "Trần Hoàng Hải",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3080",
+          "name": "Mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3087",
+          "name": "Máy tính và mạng máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3110",
+          "name": "Linux và phần mềm nguồn mở",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4684",
+          "name": "Mạng số và truyền dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4815",
+          "name": "Quản trị mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4819",
+          "name": "Quản trị mạng",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4921",
+          "name": "Các giao thức định tuyến",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4924",
+          "name": "Tính toán di động",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5600",
+          "name": "Tính toán di động-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6610",
+          "name": "Các hệ cơ sở dữ liệu tiên tiến-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6620",
+          "name": "Tính toán khắp nơi và di động-1-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6630",
+          "name": "Mạng trung tâm dữ liệu và điện toán đám mây-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4694",
+          "name": "Mạng số và truyền dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4815Q",
+          "name": "Quản trị mạng",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hai.phamvan@hust.edu.vn",
+      "name": "Phạm Văn Hải",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3120",
+          "name": "Phân tích thiết kế hệ thống thông tin",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT3620",
+          "name": "Phân tích và thiết kế hệ thống thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4040",
+          "name": "Trí tuệ nhân tạo",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4240",
+          "name": "Quản trị dự án công nghệ thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4304",
+          "name": "An toàn thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4320",
+          "name": "An toàn trong giao dịch điện tử",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4361",
+          "name": "Hệ cơ sở tri thức",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4380",
+          "name": "Phân tích và thiết kế hệ thống hướng đối tượng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4640",
+          "name": "Thu thập và phân tích thông tin an ninh mạng",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4856",
+          "name": "Quản trị dự án",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT5370",
+          "name": "Quản trị dự án-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT6331",
+          "name": "Các mô hình và kiến trúc hệ thống thông tin quản lý-2-15 (BK01)",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4340",
+          "name": "Hệ trợ giúp quyết định",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4324",
+          "name": "An toàn trong giao dịch điện tử",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4361Q",
+          "name": "Hệ cơ sở tri thức",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3120",
+          "name": "Phân tích và thiết kế hệ thống thông tin",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "uy.dovan@hust.edu.vn",
+      "name": "Đỗ Văn Uy",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3250",
+          "name": "Đạo đức máy tính",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010",
+          "name": "An toàn bảo mật thông tin",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4012",
+          "name": "Bảo mật thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4013",
+          "name": "An toàn thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4190",
+          "name": "An toàn hệ thống",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4460",
+          "name": "Phân tích yêu cầu phần mềm",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT5000",
+          "name": "Thực tập tốt nghiệp",
+          "type": "ĐA"
+        },
+        {
+          "priority": 2,
+          "code": "IT4010",
+          "name": "An toàn và bảo mật thông tin",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT4490Q",
+          "name": "Thiết kế và xây dựng phần mềm",
+          "type": "LT+BT"
+        }
+      ]
+    },
+    {
+      "code": "hoabt@soict.hust.edu.vn",
+      "name": "Bùi Thị Hoà",
+      "maxCredit": 15,
+      "courses": [
+        {
+          "priority": 2,
+          "code": "IT3094Q",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT3090Q",
+          "name": "Cơ sở dữ liệu",
+          "type": "LT+BT"
+        },
+        {
+          "priority": 2,
+          "code": "IT1110",
+          "name": "Tin học đại cương",
+          "type": "LT+BT"
+        }
+      ]
+    }
+  ]
+}
