@@ -236,11 +236,19 @@ public class OpenCBLSSolver {
 				break;
 			}
 			}
-			if (bestV > S.violations()) {
+			if (preVio>S.violations()) {
 				nic = 0;
-				bestV = S.violations();
-				best.update(X, nbCredits, S);
-			} else {
+				if (bestV>S.violations()) {
+					bestV = S.violations();
+					best.update(X, nbCredits, S);
+				}
+			}
+//			if (bestV > S.violations()) {
+//				nic = 0;
+//				bestV = S.violations();
+//				best.update(X, nbCredits, S);
+//			} 
+			else {
 				if (bestV <= 10 && bestV == S.violations()) best.update(X, nbCredits, S);
 				nic ++;
 			}
@@ -354,7 +362,12 @@ public class OpenCBLSSolver {
 	}
 	
 	public void optimizeSolution(int tabulen, int maxTime, int maxIter, int maxStable) {
-		
+		IFunction[] obj = new IFunction[3];
+		obj[0] = new FuncPlus(this.objMaxAssignment, 0);
+		obj[1] = this.objDeltaAssignment;
+		obj[2] = this.objPriority;
+		int[] weight = new int[] {9999999, 10, -1};
+		this.tabuSearch(obj, weight);
 	}
 
 	public void tabuSearch(IFunction[] obj, int[] weight) {
@@ -365,8 +378,30 @@ public class OpenCBLSSolver {
 		ts.searchMaintainConstraintsMaximize(new FuncPlus(objPriority, 0), S, 100, 100, 300, 50);
 	}
 	
+	private void restartMaintainConstraint(VarIntLS[] x, IConstraint S,
+			int[][] tabu) {
+
+		for (int i = 0; i < x.length; i++) {
+			java.util.ArrayList<Integer> L = new java.util.ArrayList<Integer>();
+			for (int v = x[i].getMinValue(); v <= x[i].getMaxValue(); v++) {
+				if (S.getAssignDelta(x[i], v) <= 0)
+					L.add(v);
+			}
+			
+			int idx = r.nextInt(L.size());
+			int v = L.get(idx);
+			x[i].setValuePropagate(v);
+			
+		}
+		for (int i = 0; i < tabu.length; i++) {
+			for (int j = 0; j < tabu[i].length; j++)
+				tabu[i][j] = -1;
+		}
+
+	}
+	
 	public void perturbingSolution(BestSolution best, int[][] tabu) {
-		int num = 25;
+		int num = 15;
 		for (int i=0; i<N; i++) {
 			X[i].setValuePropagate(best.getX(i));
 		}
@@ -405,7 +440,7 @@ public class OpenCBLSSolver {
 		//s.loadData("data\\teacherclassassignment\\input_20182_1905_ext_0_format1.txt");
 		s.stateFeasibleModel();
 		long t0 = System.currentTimeMillis();
-		s.searchAFeasibleSolution(200, 1000, 100000, 50);
+		s.searchAFeasibleSolution(200, 1000, 100000, 30);
 		s.printSolution();
 		//s.stateOptimizationModel();
 		//s.optimizeSolution(100, 300, 100000, 50);
