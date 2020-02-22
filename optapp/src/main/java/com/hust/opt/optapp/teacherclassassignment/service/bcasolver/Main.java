@@ -63,7 +63,7 @@ public class Main extends BasicSolver {
 	public static void main(String[] args) throws Exception {
 		Main test = new Main();
 		
-		String input = "D:\\Desktop\\documents\\opt documents\\BCA_final_data\\20182\\input_20182.txt";
+		String input = "data/teacherclassassignment/final/20182/input_20182.txt";
 		test.option01(input); // cplex cp optimizer
 		test.option02(input); // opencbls
 	}

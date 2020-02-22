@@ -1,4 +1,4 @@
-package com.hust.opt.optapp.teacherclassassignment.service;
+package com.hust.opt.optapp.teacherclassassignment.service.cplexcpoptimizer;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -117,7 +117,7 @@ public class CPLEXSolver {
 		 * Export result to excel file.
 		 */
 		
-		File file = new File("C:/Users/Asus/eclipse-workspace/optapp/data/solution/final_solution.xlsx");
+		File file = new File("data/teacherclassassignment/solution/final_solution.xlsx");
 		FileInputStream inputStream;
 		inputStream = new FileInputStream(file);
 		XSSFWorkbook wb = new XSSFWorkbook(inputStream);		
@@ -379,7 +379,7 @@ public class CPLEXSolver {
 			// Prints + Extracts solution.
 			this.minCredit = solver.getValue(f);
 			System.out.println("\nMin credit = " + (int)(solver.getValue(f) + 0.25));
-			//printSolution();
+			printSolution();
 			
 		} catch (IloException e) {
 			e.printStackTrace();		
@@ -500,16 +500,16 @@ public class CPLEXSolver {
 		
 		for (int i=0; i<data.length; i++) {
 			
-			s.loadData("data/final/20182/input_20182" + data[i] + ".txt");
+			s.loadData("data/teacherclassassignment/final/20182/input_20182" + data[i] + ".txt");
 			s.time[i][0] = s.phase1();
 			s.time[i][1] = s.phase2();
 			s.time[i][2] = s.phase3((int) s.maxCredit);
 			
-//			try {
-//				s.exportSolution("20182" + data[i]);
-//			} catch (IOException e) {
-//				e.printStackTrace();
-//			}
+			try {
+				s.exportSolution("20182" + data[i]);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 		
 		for (int i=0; i<data.length; i++) {
